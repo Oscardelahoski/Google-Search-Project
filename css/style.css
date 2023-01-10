@@ -193,10 +193,11 @@ body {
     width: 95%;
     margin: 0 auto;
     margin-left: 15%;
-    align-items: center;
+    /* align-items: center; */
     padding-top: 30px;
     /* justify-content: space-around; */
 }
+/* This is the styling for section A */
 
 .section-A {
     width: 60%;
@@ -254,5 +255,148 @@ body {
    text-decoration: none;
    color: #e8eaed;
    font-weight: 400;
+}
+
+.news-txt-icon > a > i {
+    font-size: 14px;
+}
+
+/* This is the top stories styling section */
+
+.top-stories {
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+    margin-top: 12px;
+    padding-top: 10px;
+    gap: 10px;
+    border-top: 1px solid #3c4043;
+    width: 85%;
+    
+    
+}
+
+.top-stories-skyv {
+    border-left: 1px solid #3c4043;
+    padding-left: 10px;
+}
+
+.logo-text-a .goal-logo {
+    padding: 10px 0px 10px 0px;
+}
+
+.top-stories-goal > img {
+    border-radius: 10px;
+    
+}
+
+.goal-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo-text-a .goal-logo > a {
+    text-decoration: none;
+    color: #bdc1c6;
+    font-size: 12px;
+}
+
+.logo-text-a > a {
+    text-decoration: none;
+    color: #8ab4f8;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.logo-text-a > p {
+    font-size: 14px;
+    color: #9aa0a6;
+    line-height: 16px;
+}
+
+.top-stories-skysports {
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+    gap: 11px;
+    border-bottom: 1px solid #3c4043;
+}
+
+.top-stories-skysports-ctn .skysports-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 10px;
+}
+
+.top-stories-skysports-ctn .skysports-logo > a {
+    text-decoration: none;
+    color: #bdc1c6;
+    font-size: 12px;
+}
+
+.top-stories-skysports-ctn > a {
+    text-decoration: none;
+    color: #8ab4f8;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.top-stories-skysports-ctn > p {
+    font-size: 14px;
+    color: #9aa0a6;
+    line-height: 16px;
+    padding: 10px 0px 10px 0px;
+}
+
+.top-stories-skysports > div > img {
+    border-radius: 10px;
+    
+}
+
+.top-stories-vanguard {
+    display: flex;
+    flex-direction: row;
+    gap: 48px;
+    padding-top: 10px;
+}
+
+.top-stories-vanguard-ctn .vanguard-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 10px;
+}
+
+.top-stories-vanguard-ctn .vanguard-logo > a {
+    text-decoration: none;
+    color: #bdc1c6;
+    font-size: 12px;
+}
+
+.top-stories-vanguard-ctn > a {
+    text-decoration: none;
+    color: #8ab4f8;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.top-stories-vanguard-ctn > p {
+    font-size: 14px;
+    color: #9aa0a6;
+    line-height: 16px;
+    padding-top: 37px;
+}
+
+.top-stories-vanguard > div > img {
+    border-radius: 10px;
+    
 }
 
