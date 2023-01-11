@@ -704,3 +704,65 @@ body {
     text-decoration: underline;
     text-decoration-color: #8ab4f8;
 }
+
+/* This is the accordion styling section */
+
+.accordion > h3 {
+    color: #e8eaed;
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: normal;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #3c4043;
+    width: 86%;
+}
+
+.text-arrow {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 86%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #3c4043;
+}
+
+.text-arrow > p {
+    font-size: 16px;
+    color: #bdc1c6;
+    cursor: pointer;
+    /* font-weight: normal; */
+}
+
+.text-arrow > i {
+    color: #bdc1c6;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.text-arrow-down {
+    padding-bottom: 20px;
+}
+
+.feedback-btn {
+    width: 90px;
+    height: 30px;
+    background-color:#202124;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 33%;
+    bottom: 20px;
+    margin:0 auto;
+    
+}
+
+.feedback-btn > a {
+    text-decoration: none;
+    color: #9aa0a6;
+    font-size: 12px;
+    text-align: center;
+    
+}
