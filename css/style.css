@@ -402,6 +402,14 @@ body {
 
 .section-A > p {
     color: #bdc1c6;
+    font-size: 15px;
+    /* font-weight: 400; */
+    margin: 5px 0px 10px 0px;
+    
+}
+
+.section-A > h5 {
+    color: #bdc1c6;
     font-size: 18px;
     font-weight: 400;
     margin: 25px 0px 10px 0px;
@@ -618,4 +626,81 @@ body {
     position: relative;
     bottom: 17px;
     right: 40px;
+    cursor: pointer;
+}
+
+/* This is the styling for the Wikipedia section */
+
+.wikipedia {
+    padding-bottom: 30px;
+}
+
+.wikipedia-ctn {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+.wikipedia-ctn > div > img {
+    border-radius: 50%;
+}
+
+.wiki-links > p {
+    color: #dadce0;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.wiki-links > div > a {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+}
+
+.wiki-links > div > i {
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+    padding-left: 10px;
+}
+
+.wikipedia > a {
+    text-decoration: none;
+}
+
+.wikipedia > a:hover {
+    text-decoration: underline;
+    text-decoration-color: #8ab4f8;
+}
+
+.wikipedia > a > h3 {
+    color: #8ab4f8;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 10px;
+    
+}
+
+.wikipedia > p {
+    color: #bdc1c6;
+    font-size: 14px;
+    line-height: 1.58;
+}
+
+.early-club {
+    color: #8ab4f8;
+}
+
+.early-club > a {
+    color: #8ab4f8;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.early-club > a:hover {
+    text-decoration: underline;
+    text-decoration-color: #8ab4f8;
 }
