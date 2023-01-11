@@ -271,7 +271,7 @@ body {
     padding-top: 10px;
     gap: 10px;
     border-top: 1px solid #3c4043;
-    width: 85%;
+    width: 86%;
     
     
 }
@@ -321,7 +321,7 @@ body {
     display: flex;
     flex-direction: row;
     /* align-items: center; */
-    gap: 11px;
+    gap: 18px;
     border-bottom: 1px solid #3c4043;
 }
 
@@ -362,7 +362,7 @@ body {
 .top-stories-vanguard {
     display: flex;
     flex-direction: row;
-    gap: 48px;
+    gap: 55px;
     padding-top: 10px;
 }
 
@@ -392,7 +392,7 @@ body {
     font-size: 14px;
     color: #9aa0a6;
     line-height: 16px;
-    padding-top: 37px;
+    padding-top: 40px;
 }
 
 .top-stories-vanguard > div > img {
@@ -400,3 +400,222 @@ body {
     
 }
 
+.section-A > p {
+    color: #bdc1c6;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 25px 0px 10px 0px;
+}
+
+/* This is the top stories 2 section */
+
+.top-stories-2 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    border-top: 1px solid #3c4043;
+    width: 86%;
+    /* margin-top: 12px; */
+    padding-top: 10px;
+}
+
+.top-stories-mirror {
+    display: flex;
+    flex-direction: row;
+    gap: 13px;
+    
+}
+
+.top-stories-mirror-ctn .mirror-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 10px;
+}
+
+.top-stories-mirror-ctn .mirror-logo > a {
+    text-decoration: none;
+    color: #bdc1c6;
+    font-size: 12px;
+}
+
+.top-stories-mirror-ctn > a {
+    text-decoration: none;
+    color: #8ab4f8;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.top-stories-mirror-ctn > p {
+    font-size: 14px;
+    color: #9aa0a6;
+    line-height: 16px;
+    padding-top: 10px;
+}
+
+.top-stories-mirror > div > img {
+    border-radius: 10px;
+    
+}
+
+.top-stories-DP {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    border-left: 1px solid #3c4043;
+    padding-left: 10px;
+    
+}
+
+.top-stories-DP-ctn .DP-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 10px;
+}
+
+.top-stories-DP-ctn .DP-logo > a {
+    text-decoration: none;
+    color: #bdc1c6;
+    font-size: 12px;
+}
+
+.top-stories-DP-ctn > a {
+    text-decoration: none;
+    color: #8ab4f8;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.top-stories-DP-ctn > p {
+    font-size: 14px;
+    color: #9aa0a6;
+    line-height: 16px;
+    padding-top: 10px;
+}
+
+.top-stories-DP > div > img {
+    border-radius: 10px;
+    
+}
+
+/* This is the top stories 3 section */
+
+.top-stories-3 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    border-top: 1px solid #3c4043;
+    border-bottom: 1px solid #3c4043;
+    width: 86%;
+    /* margin-top: 12px; */
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.top-stories-DE {
+    display: flex;
+    flex-direction: row;
+    gap: 21px;
+    
+}
+
+.top-stories-DE-ctn .DE-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 10px;
+}
+
+.top-stories-DE-ctn .DE-logo > a {
+    text-decoration: none;
+    color: #bdc1c6;
+    font-size: 12px;
+}
+
+.top-stories-DE-ctn > a {
+    text-decoration: none;
+    color: #8ab4f8;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.top-stories-DE-ctn > p {
+    font-size: 14px;
+    color: #9aa0a6;
+    line-height: 16px;
+    padding-top: 10px;
+}
+
+.top-stories-DE > div > img {
+    border-radius: 10px;
+    
+}
+
+.top-stories-Marca {
+    display: flex;
+    flex-direction: row;
+    gap: 38px;
+    border-left: 1px solid #3c4043;
+    padding-left: 10px;
+    
+}
+
+.top-stories-Marca-ctn .Marca-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 10px;
+}
+
+.top-stories-Marca-ctn .Marca-logo > a {
+    text-decoration: none;
+    color: #bdc1c6;
+    font-size: 12px;
+}
+
+.top-stories-Marca-ctn > a {
+    text-decoration: none;
+    color: #8ab4f8;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.top-stories-Marca-ctn > p {
+    font-size: 14px;
+    color: #9aa0a6;
+    line-height: 16px;
+    padding-top: 10px;
+}
+
+.top-stories-Marca > div > img {
+    border-radius: 10px;
+    
+}
+
+.morenews-btn {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 36px;
+    border-radius: 18px;
+    background-color: #303134;
+    font-size: 14px;
+    font-weight: 400;
+    color: #e8eaed;
+    margin: 0 auto;
+    position: relative;
+    bottom: 17px;
+    right: 40px;
+}
