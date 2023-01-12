@@ -766,3 +766,148 @@ body {
     text-align: center;
     
 }
+
+/* This is the styling for the CR7 section */
+
+.cr7 {
+    padding-bottom: 30px;
+}
+
+.cr7-ctn {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+.cr7-ctn > div > img {
+    border-radius: 50%;
+}
+
+.cr7-links > p {
+    color: #dadce0;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.cr7-links > div > a {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+}
+
+.cr7-links > div > i {
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+    padding-left: 10px;
+}
+
+.cr7 > a {
+    text-decoration: none;
+}
+
+.cr7 > a:hover {
+    text-decoration: underline;
+    text-decoration-color: #8ab4f8;
+}
+
+.cr7 > a > h3 {
+    color: #8ab4f8;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 10px;
+    
+}
+
+.cr7 > p {
+    color: #bdc1c6;
+    font-size: 14px;
+    line-height: 1.58;
+}
+
+/* This is the styling for the mirror section */
+
+.mirror-section {
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+.mirror-sec-ctn {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+.mirror-sec-ctn > div > img {
+    border-radius: 50%;
+}
+
+.mirror-sec-links > p {
+    color: #dadce0;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.mirror-sec-links > div > a {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+}
+
+.mirror-sec-links > div > i {
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+    padding-left: 10px;
+}
+
+.mirror-sec > a {
+    text-decoration: none;
+}
+
+.mirror-sec > a:hover {
+    text-decoration: underline;
+    text-decoration-color: #8ab4f8;
+}
+
+.mirror-sec > a > h3 {
+    color: #8ab4f8;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 10px;
+    
+}
+
+.mirror-sec > p {
+    color: #bdc1c6;
+    font-size: 14px;
+    line-height: 1.58;
+}
+
+.net-boots {
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+    gap: 185px;
+    padding-top: 8px;
+}
+
+.net-boots > p > span {
+    color: #9aa0a6;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.net-boots > p {
+    color: #bdc1c6;
+    font-size: 14px;
+    line-height: 22px;
+}
