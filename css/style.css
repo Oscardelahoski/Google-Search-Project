@@ -911,3 +911,188 @@ body {
     font-size: 14px;
     line-height: 22px;
 }
+
+/* This is the CR7 Twitter feeds styling */
+
+.cr7-twitter-feeds-boxes {
+    padding-bottom: 30px;
+}
+
+.cr7-twitter-feeds-header1 > a {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+}
+
+.cr7-twitter-feeds-header1 > i {
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+    padding-left: 10px;
+}
+
+.cr7-twitter-feeds-header2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cr7-twitter-feeds-header2 > a {
+    text-decoration: none;
+}
+
+.cr7-twitter-feeds-header2 > a:hover {
+    text-decoration: underline;
+    text-decoration-color: #8ab4f8;
+}
+
+.cr7-twitter-feeds-header2> a > h3 {
+    color: #8ab4f8;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 10px;
+    
+}
+
+.cr7-twitter-feeds-box1 {
+    width: 215px;
+    height: 353px;
+    border: 1px solid #3c4043;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.cr7-twitter-feeds-box1 > a  {
+    text-decoration: none;
+    /* margin: 10px 10px 10px 10px; */
+    
+}
+
+.cr7-twitter-feeds-box1 > a > p {
+    font-size: 14px;
+    line-height: 22px;
+    color: #bdc1c6;
+    padding: 10px 10px;
+}
+
+.cr7-twitter-feeds-box1 > p > span {
+    color: #e8eaed;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.cr7-twitter-feeds-box1 > p {
+    color: #9aa0a6;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.cr7-twitter-img > img {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    cursor: pointer;
+}
+
+.cr7-twitter-feeds-boxes {
+    display: flex;
+    flex-direction: row;
+}
+
+.cr7-twitter-feeds-box2 {
+    width: 215px;
+    height: 353px;
+    border: 1px solid #3c4043;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.cr7-twitter-feeds-box2 > a  {
+    text-decoration: none;
+    /* margin: 10px 10px 10px 10px; */
+    
+}
+
+.cr7-twitter-feeds-box2 > a > p {
+    font-size: 14px;
+    line-height: 22px;
+    color: #bdc1c6;
+    padding: 10px 10px;
+}
+
+.cr7-twitter-feeds-box2 > p > span {
+    color: #e8eaed;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.cr7-twitter-feeds-box2 > p {
+    color: #9aa0a6;
+    font-size: 14px;
+    padding-top: 146px;
+    padding-left: 10px;
+}
+
+.cr7-twitter-img  {
+   display: flex; 
+   flex-direction: row;
+   cursor: pointer;
+   
+}
+
+.cr7-twitter-img1 > img {
+    border-top-left-radius: 5px;
+}
+
+.cr7-twitter-img2 > img:nth-child(1) {
+    border-top-right-radius: 5px;
+    
+}
+
+.cr7-twitter-feeds-box3 {
+    width: 215px;
+    height: 353px;
+    border: 1px solid #3c4043;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.cr7-twitter-feeds-box3 > a  {
+    text-decoration: none;
+        
+}
+
+.cr7-twitter-feeds-box3 > a > p {
+    font-size: 14px;
+    line-height: 22px;
+    color: #bdc1c6;
+    padding: 10px 10px;
+}
+
+.cr7-twitter-feeds-box3 > p > span {
+    color: #e8eaed;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.cr7-twitter-feeds-box3 > p {
+    color: #9aa0a6;
+    font-size: 14px;
+    padding-top: 80px;
+    padding-left: 10px;
+}
+
+.cr7-twitter-feeds-box3 .cr7-twitter-img  {
+   display: flex; 
+   flex-direction: row;
+   cursor: pointer;
+   /* align-items: center; */
+}
+
+.cr7-twitter-img3 > img:nth-child(1) {
+    border-top-left-radius: 5px;
+}
+
+.cr7-twitter-img4 > img:nth-child(1) {
+    border-top-right-radius: 5px;
+    
+}
