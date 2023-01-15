@@ -1329,3 +1329,384 @@ body {
 .morenews-btn-video:hover {
     background-color:#3c4043;
 }
+
+/* This is the styling for the Allnews section */
+
+/* Instagram */
+
+.instagram {
+    padding-bottom: 30px;
+}
+
+.instagram-ctn {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+.instagram-ctn > div > img {
+    border-radius: 50%;
+}
+
+.instagram-links > p {
+    color: #dadce0;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.instagram-links > div > a {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+}
+
+.instagram-links > div > i {
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+    padding-left: 10px;
+}
+
+.instagram > a {
+    text-decoration: none;
+}
+
+.instagram > a:hover {
+    text-decoration: underline;
+    text-decoration-color: #8ab4f8;
+}
+
+.instagram > a > h3 {
+    color: #8ab4f8;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 10px;
+    
+}
+
+.instagram > p {
+    color: #bdc1c6;
+    font-size: 14px;
+    line-height: 1.58;
+}
+
+/* Daily Mail */
+
+.dailymail {
+    padding-bottom: 30px;
+}
+
+.dailymail-ctn {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+.dailymail-ctn > div > img {
+    border-radius: 50%;
+}
+
+.dailymail-links > p {
+    color: #dadce0;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.dailymail-links > div > a {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+}
+
+.dailymail-links > div > i {
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+    padding-left: 10px;
+}
+
+.dailymail > a {
+    text-decoration: none;
+}
+
+.dailymail > a:hover {
+    text-decoration: underline;
+    text-decoration-color: #8ab4f8;
+}
+
+.dailymail > a > h3 {
+    color: #8ab4f8;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 10px;
+    
+}
+
+.dailymail > p {
+    color: #bdc1c6;
+    font-size: 14px;
+    line-height: 1.58;
+}
+
+.dailymail > p > span {
+    color: #9aa0a6;
+}
+
+/* Realmadrid*/
+
+.realmadrid {
+    padding-bottom: 30px;
+}
+
+.realmadrid-ctn {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+.realmadrid-ctn > div > img {
+    border-radius: 50%;
+}
+
+.realmadrid-links > p {
+    color: #dadce0;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.realmadrid-links > div > a {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+}
+
+.realmadrid-links > div > i {
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+    padding-left: 10px;
+}
+
+.realmadrid > a {
+    text-decoration: none;
+}
+
+.realmadrid > a:hover {
+    text-decoration: underline;
+    text-decoration-color: #8ab4f8;
+}
+
+.realmadrid > a > h3 {
+    color: #8ab4f8;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 10px;
+    
+}
+
+.realmadrid > p {
+    color: #bdc1c6;
+    font-size: 14px;
+    line-height: 1.58;
+}
+
+/* Transfermkt*/
+
+.transfermkt {
+    padding-bottom: 30px;
+}
+
+.transfermkt-ctn {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+.transfermkt > div > img {
+    border-radius: 50%;
+}
+
+.transfermkt-links > p {
+    color: #dadce0;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.transfermkt-links > div > a {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+}
+
+.transfermkt-links > div > i {
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+    padding-left: 10px;
+}
+
+.transfermkt > a {
+    text-decoration: none;
+}
+
+.transfermkt > a:hover {
+    text-decoration: underline;
+    text-decoration-color: #8ab4f8;
+}
+
+.transfermkt > a > h3 {
+    color: #8ab4f8;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 10px;
+    
+}
+
+.transfermkt > p {
+    color: #bdc1c6;
+    font-size: 14px;
+    line-height: 1.58;
+}
+
+/* Marca */
+
+.marca {
+    padding-bottom: 30px;
+}
+
+.marca-ctn {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+.marca-ctn > div > img {
+    border-radius: 50%;
+}
+
+.marca-links > p {
+    color: #dadce0;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.marca-links > div > a {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+}
+
+.marca-links > div > i {
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+    padding-left: 10px;
+}
+
+.marca > a {
+    text-decoration: none;
+}
+
+.marca > a:hover {
+    text-decoration: underline;
+    text-decoration-color: #8ab4f8;
+}
+
+.marca > a > h3 {
+    color: #8ab4f8;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 10px;
+    
+}
+
+.marca > p {
+    color: #bdc1c6;
+    font-size: 14px;
+    line-height: 1.58;
+}
+
+.marca > p > span {
+    color: #9aa0a6;
+}
+
+/* Manchester */
+
+.manchester{
+    padding-bottom: 30px;
+}
+
+.manchester-ctn {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+.manchester-ctn > div > img {
+    border-radius: 50%;
+}
+
+.manchester-links > p {
+    color: #dadce0;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.manchester-links > div > a {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+}
+
+.manchester-links > div > i {
+    font-size: 12px;
+    line-height: 18px;
+    color: #bdc1c6;
+    padding-left: 10px;
+}
+
+.manchester > a {
+    text-decoration: none;
+}
+
+.manchester > a:hover {
+    text-decoration: underline;
+    text-decoration-color: #8ab4f8;
+}
+
+.manchester > a > h3 {
+    color: #8ab4f8;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 10px;
+    
+}
+
+.manchester > p {
+    color: #bdc1c6;
+    font-size: 14px;
+    line-height: 1.58;
+}
+
+.manchester > p > span {
+    color: #9aa0a6;
+}
+
