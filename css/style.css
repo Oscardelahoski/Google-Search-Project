@@ -1865,7 +1865,7 @@ body {
     width: 86%;
     border-bottom: 1px solid #3c4043;
     padding-top: 10px;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
     padding-bottom: 20px;
     border-top: 1px solid #3c4043;
     cursor: pointer;
@@ -1900,7 +1900,7 @@ body {
     justify-content: center;
     position: relative;
     left: 33%;
-    bottom: 37px;
+    bottom: 18px;
     margin:0 auto;
     
 }
@@ -1913,5 +1913,216 @@ body {
     
 }
 
+/* This is the styling for the tag section */
+
+.tag-section {
+    padding-bottom: 20px;
+}
+
+.tag-one {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 25px;
+    width: 325px;
+    height: 48px;
+    background-color: #303134;
+    margin-bottom: 8px;
+    /* justify-content: space-between; */
+    padding: 0px 17px 0px 33px;
+    border-radius: 100px;
+}
+
+.tag-one > a {
+    color: #bdc1c6;
+    font-size: 16px;
+    text-decoration: none;
+} 
+
+.tag-one > a:hover {
+    text-decoration: underline;
+    text-decoration-color: #bdc1c6;
+}
+
+.tag-one > i {
+    color:#bdc1c6;
+    font-size: 14px;
+} 
+
+.tag-ctn {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+}
+
+/* This is styling for the google section */
+
+.google-section {
+    display: flex;
+    justify-content: center;
+}
+
+.google-section-ctn {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.google-o {
+    padding-top: 12px;
+}
+
+.google-gle {
+    padding-top: 6px;
+    
+}
+
+.google-gle > a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+}
+
+.google-gle > a > i {
+    color: #8ab4f8;
+}
+
+/* This is the under Google styling section */
+
+.under-google-section {
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+}
+
+.under-google-ctn {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 60px;
+    padding-left: 40px;
+}
+
+.numbering {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.no1 > a {
+    text-decoration: none;
+    color: #bdc1c6
+}
+
+.no2 > a {
+    text-decoration: none;
+    color: #8ab4f8;
+}
+
+.next > a {
+    text-decoration: none;
+    color: #8ab4f8;
+}
+
+/* This is the footer section styling */
+
+.footer-section {
+    background-color: #171717;
+    
+}
+
+.footer {
+    /* width: 80%;
+    margin-left: 15%; */
+    padding-top: 20px;
+    border-bottom: 1px solid #3c4043;
+    /* margin-bottom: 20px; */
+    
+}
+
+.foooter-ctn {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    /* padding-bottom: 20px; */
+    /* margin-bottom: 15px; */
+    /* width: 100%; */
+    margin-left: 15%;
+   
+    
+}
+
+.foooter-ctn > div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+    height: 30px;
+}
+
+.foooter-ctn > div > a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+    color: #bdc1c6;
+    font-size: 14px;
+}
+
+.foooter-ctn > div > a > i {
+    padding-right: 5px;
+    font-size: 10px;
+}
+
+.foooter-ctn > div > a > p > span {
+    color: #8ab4f8;
+}
+
+.foooter-ctn > div > span {
+    color: #8ab4f8;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.foooter-ctn > p {
+    font-size: 15px;
+    color: #9aa0a6;
+    border-right: 1px solid #3c4043;
+    padding-right: 20px;
+    height: 30px;
+    padding-top: 5px;
+}
+
+/* This is the footer links styling section */
+
+.footer-links {
+    margin-left: 15%;
+    width: 80%;
+}
+
+.foooter-links-ctn > ul {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    list-style: none;
+    padding: 10px 0px 20px 0px;
+}
+
+.foooter-links-ctn > ul > li > a {
+    text-decoration: none;
+    font-size: 14px;
+    color: #999da2;
+    line-height: 22px;
+}
+
+.foooter-links-ctn > ul > li > a:hover{
+    color: #bdc1c6;
+}
 
 
